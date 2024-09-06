@@ -24,4 +24,5 @@ public class Postazione {
     @JoinColumn(name = "edificio_id", nullable = false)
     private Edificio edificio;
 
+    // Getters e Setters
 }

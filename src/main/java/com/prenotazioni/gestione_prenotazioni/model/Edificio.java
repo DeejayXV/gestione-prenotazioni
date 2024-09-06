@@ -16,4 +16,5 @@ public class Edificio {
     private String indirizzo;
     private String citta;
 
+    // Getters e Setters
 }
