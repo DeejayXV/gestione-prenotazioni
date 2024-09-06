@@ -20,7 +20,7 @@ public class Prenotazione {
 
     private LocalDate dataPrenotazione;
 
-    // Getters e Setters
+    // getters e setters
     public Utente getUtente() {
         return utente;
     }

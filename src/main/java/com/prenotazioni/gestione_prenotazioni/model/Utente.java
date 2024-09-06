@@ -16,5 +16,4 @@ public class Utente {
     private String nomeCompleto;
     private String email;
 
-    // Getters e Setters
 }
